@@ -1,4 +1,4 @@
-public class week2_CollinsTask3
+public class week2_CollinsTask3{
 
         public static void main(String[] args) {
             int n = 35;
